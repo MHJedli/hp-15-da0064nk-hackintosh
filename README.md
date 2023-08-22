@@ -88,7 +88,7 @@ The theme used in this OC :
 
 ## Screenshots
 
-![src1](https://github.com/versionbeta10/HACKINTOSH-EFI-FOR-HP-15-DA0064NK-/assets/53920740/197fee1b-5a05-49bb-bef1-99a683510a1f)
+![src1](https://github.com/versionbeta10/HACKINTOSH-EFI-FOR-HP-15-DA0064NK-/assets/53920740/eb856c51-1d0d-4b52-9268-b7288d1fa18a)
 
 ![src3](https://github.com/versionbeta10/HACKINTOSH-EFI-FOR-HP-15-DA0064NK-/assets/53920740/ba45d9d4-4cfa-4fc7-ae33-2567bc46c3cd)
 
