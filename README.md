@@ -6,4 +6,3 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/EFI-v1.0-blue">
 </div>
-
