@@ -51,8 +51,7 @@ This EFI is only for this PC model so if you want to use on other devices then i
 | Audio | ✅ | AppleALC kext working with layout-id 13 |
 | Trackpad | ✅ | VoodooI2C |
 | Ethernet | ✅ | RealtekRTL8111 Kext |
-| Bluetooth | ✅ | Internal Intel combo card with IntelBluetoothFirmware.kext + BlueToolFixup Kext |
-| AppleTV+ DRM | ✅ | Work with CFG_LINK_FIXED_MAP=1 |
+| AppleTV+ DRM | ✅ |  |
 | Shutdown/Reboot | ✅ |   |
 
 ## What's not Working
@@ -69,6 +68,7 @@ This EFI is only for this PC model so if you want to use on other devices then i
 
 *   Secure Boot **Disabled**
 *   Boot Type **UEFI**
+  
 ## SSDTs Used
 
 | Table | Description |
