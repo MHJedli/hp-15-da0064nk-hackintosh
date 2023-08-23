@@ -46,7 +46,7 @@ This EFI is only for this PC model so if you want to use on other devices then i
 | IGPU | ✅ | With some DeviceProperties |
 | Brightness Control | ✅ |   |
 | HDMI A/V out | ✅ |   |
-| USB | ✅ | currently using USBInjectAll.kext |
+| USB | ✅ | Currently using USBInjectAll.kext |
 | Keyboard | ✅ | Voodoops2controller Kext |
 | Audio | ✅ | AppleALC kext working with layout-id 13 |
 | Trackpad | ✅ | VoodooI2C |
