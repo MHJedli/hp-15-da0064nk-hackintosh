@@ -36,7 +36,7 @@ This EFI is only for this PC model so if you want to use on other devices then i
 | WIFI | Realtek RTL8723DE  |
 | Ethernet  | Realtek RTL8111  |
 | Opencore Version  | 0.9.4  |
-| SMBIOS used  | MacBookPro14,1 (Keep this SMBIOS so you can receive system updates from APPLE)  |
+| SMBIOS used  | MacBookPro14,1 (Regenerate the SMBIOS with the **same macbook model** used so you can receive system updates from APPLE)  |
 | Target MacOS Version  | MacOS Ventura 13.5.1  |
 
 ## What's Working
