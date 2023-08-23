@@ -28,7 +28,6 @@ This EFI is only for this PC model so if you want to use on other devices then i
 | Item  | Info  |
 | ------------ | ------------ |
 | Model  | HP 15-da0064nk  |
-| Bios Version  | G9CN32WW  |
 | CPU  |  Intel® Core™ i3 7020U |
 | IGPU  |  Intel HD Graphics 620 |
 | DGPU | NVIDIA GeForce MX110  |
