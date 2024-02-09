@@ -1,6 +1,6 @@
 # HACKINTOSH-EFI-FOR-HP-15-DA0064NK
 
-HP 15-DA0064NK OpenCore EFI for MacOs Ventura and Below
+HP 15-DA0064NK OpenCore EFI for MacOs Ventura and Up
 
 ![print-usb-bluetooh](https://github.com/versionbeta10/HACKINTOSH-EFI-FOR-HP-15-DA0064NK-/assets/53920740/eebfe9e4-123e-4141-ab83-e3fcd16c3290)
 
