@@ -9,6 +9,12 @@ HP 15-DA0064NK OpenCore EFI for MacOs Ventura and Below
   <img src="https://img.shields.io/badge/macOS-Ventura_13.5.1-orange">
 </div>
 
+# A QUICK NOTICE
+
+Just updated the EFI OpenCore to 0.9.8 and updated the kexts<br>
+but I didn't test it yet. So wait for an update<br>
+And maybe update the EFI to work for Sonoma.
+
 # NOTE TO KEEP
 
 This EFI is only for this PC model so if you want to use on other devices then it is on you.
@@ -34,7 +40,7 @@ This EFI is only for this PC model so if you want to use on other devices then i
 | SSD | PNY CS900 240GO SSD 2.5 for macOS / TEAM GROUP MP33 128GO SSD M.2 for Windows 11  |
 | WIFI | Realtek RTL8723DE  |
 | Ethernet  | Realtek RTL8111  |
-| Opencore Version  | 0.9.4  |
+| Opencore Version  | 0.9.8  |
 | SMBIOS used  | MacBookPro14,1 (Regenerate the SMBIOS with the **same macbook model** used so you can receive system updates from APPLE)  |
 | Target MacOS Version  | MacOS Ventura 13.5.1  |
 
